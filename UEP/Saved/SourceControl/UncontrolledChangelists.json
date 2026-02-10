@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/s5606219/Cinematic/UEP/Content/Main.umap",
+				"D:/s5606219/Cinematic/UEP/Content/Blockout1.umap",
+				"D:/s5606219/Cinematic/UEP/Content/Blockout2.umap",
+				"D:/s5606219/Cinematic/UEP/Content/Actual_Level.umap",
+				"D:/s5606219/Cinematic/UEP/Content/Lighting.umap",
+				"D:/s5606219/The-Unreal-Engine-University-Project/UEP/Content/Actual_Level.umap",
 				"D:/s5606219/Cinematic/UEP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
 				"D:/s5606219/Cinematic/UEP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/3X/QGZCTIMMUHYP3VHFT1S77G.uasset",
 				"D:/s5606219/Cinematic/UEP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/3H/N1FBLVFQQHQN5GVOAKBHZE.uasset",
@@ -314,12 +320,7 @@
 				"D:/s5606219/Cinematic/UEP/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset",
 				"D:/s5606219/Cinematic/UEP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA.uasset",
 				"D:/s5606219/Cinematic/UEP/Content/ThirdPerson/Lvl_ThirdPerson.umap",
-				"D:/s5606219/Cinematic/UEP/Content/Cinematic/Test1.uasset",
-				"D:/s5606219/Cinematic/UEP/Content/Main.umap",
-				"D:/s5606219/Cinematic/UEP/Content/Blockout1.umap",
-				"D:/s5606219/Cinematic/UEP/Content/Blockout2.umap",
-				"D:/s5606219/Cinematic/UEP/Content/Actual_Level.umap",
-				"D:/s5606219/Cinematic/UEP/Content/Lighting.umap"
+				"D:/s5606219/Cinematic/UEP/Content/Cinematic/Test1.uasset"
 			]
 		}
 	]
