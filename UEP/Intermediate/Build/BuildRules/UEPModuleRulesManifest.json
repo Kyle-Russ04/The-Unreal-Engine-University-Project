@@ -1,0 +1,15 @@
+{
+	"SourceFiles": [
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Plugins\\Runtime\\HoudiniEngine\\Source\\HoudiniEngineEditor\\HoudiniEngineEditor.Build.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Plugins\\Runtime\\HoudiniEngine\\Source\\HoudiniEngineRuntime\\HoudiniEngineRuntime.Build.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Plugins\\Runtime\\HoudiniEngine\\Source\\HoudiniEngine\\HoudiniEngine.Build.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Plugins\\Runtime\\HoudiniNiagara\\Source\\HoudiniNiagaraEditor\\HoudiniNiagaraEditor.Build.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Plugins\\Runtime\\HoudiniNiagara\\Source\\HoudiniNiagara\\HoudiniNiagara.Build.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Intermediate\\Source\\UEP.Build.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Intermediate\\Source\\UEP.Target.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Intermediate\\Source\\UEPClient.Target.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Intermediate\\Source\\UEPEditor.Target.cs",
+		"D:\\The Unreal Engine Project\\The-Unreal-Engine-University-Project\\UEP\\Intermediate\\Source\\UEPServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

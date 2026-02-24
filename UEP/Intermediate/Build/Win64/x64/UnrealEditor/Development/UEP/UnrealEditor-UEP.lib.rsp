@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UEP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/The Unreal Engine Project/The-Unreal-Engine-University-Project/UEP/Intermediate/Build/Win64/x64/UEPEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/The Unreal Engine Project/The-Unreal-Engine-University-Project/UEP/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEP/UEP.cpp.obj"
+"D:/The Unreal Engine Project/The-Unreal-Engine-University-Project/UEP/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEP/PerModuleInline.gen.cpp.obj"
+"D:/The Unreal Engine Project/The-Unreal-Engine-University-Project/UEP/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEP/Default.rc2.res"
+/OUT:"D:/The Unreal Engine Project/The-Unreal-Engine-University-Project/UEP/Intermediate/Build/Win64/x64/UnrealEditor/Development/UEP/UnrealEditor-UEP.lib"

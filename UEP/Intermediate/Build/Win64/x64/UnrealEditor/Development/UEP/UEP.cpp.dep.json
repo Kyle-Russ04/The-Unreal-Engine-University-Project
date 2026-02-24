@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\the unreal engine project\\the-unreal-engine-university-project\\uep\\intermediate\\source\\uep.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\the unreal engine project\\the-unreal-engine-university-project\\uep\\intermediate\\build\\win64\\x64\\uepeditor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\the unreal engine project\\the-unreal-engine-university-project\\uep\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uep\\definitions.uep.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
